@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df768248-c433-43e0-a1da-2adc9fe6caf0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Java_Soft\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gOh2ZVUp0RCoxzJ1NT9XQfuEJd" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3658986" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BigData\DataWarehouse\canal\src\main\proto\com.itheima.protobuf" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.itheima" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BigData\DataWarehouse\ETL\data\input" />
+      <recent name="D:\BigData\DataWarehouse\ETL\src\main\scala\com\itheima\main" />
+      <recent name="D:\BigData\DataWarehouse\ETL\src\main\scala\com\itheima\bean" />
+      <recent name="D:\BigData\DataWarehouse\ETL\src\main\scala\main" />
+      <recent name="D:\BigData\DataWarehouse\ETL\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CanalClientEntrance (1)">
+    <configuration name="CanalClientEntrance (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.canal.CanalClientEntrance" />
+      <module name="canal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.canal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalClientEntrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.canal.CanalClientEntrance" />
+      <module name="canal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.canal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ETLApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.main.ETLApp" />
+      <module name="ETL" />
+      <option name="VM_PARAMETERS" value="-Xms256m -Xmx1024m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptmizeETLApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.main.OptmizeETLApp" />
+      <module name="ETL" />
+      <option name="VM_PARAMETERS" value="-Xms256m -Xmx1024m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProtoBufDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.protobuf.ProtoBufDemo" />
+      <module name="canal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.protobuf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CanalClientEntrance (1)" />
+      <item itemvalue="Application.ETLApp" />
+      <item itemvalue="Application.OptmizeETLApp" />
+      <item itemvalue="Application.CanalClientEntrance" />
+      <item itemvalue="Application.ProtoBufDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProtoBufDemo" />
+        <item itemvalue="Application.CanalClientEntrance" />
+        <item itemvalue="Application.OptmizeETLApp" />
+        <item itemvalue="Application.ETLApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df768248-c433-43e0-a1da-2adc9fe6caf0" name="Default Changelist" comment="" />
+      <created>1597991339388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597991339388</updated>
+      <workItem from="1597991342288" duration="11632000" />
+      <workItem from="1598252632798" duration="3841000" />
+      <workItem from="1598422059019" duration="4374000" />
+      <workItem from="1598431850154" duration="3587000" />
+      <workItem from="1598491282412" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1598009830792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1598009830792" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598431455615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1598431455615" />
+    <state x="946" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1597995435706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="946" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1597995435706" />
+    <state x="422" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598010074752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="422" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1598010074752" />
+    <state x="543" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1598010075817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1598010075817" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598431822304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598431822304" />
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1598436202288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598436202288" />
+    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1598436202288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598436202288" />
+    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1598436202288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598436202288" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1598436202288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598436202288" />
+    <state width="1478" height="249" key="GridCell.Tab.1.bottom" timestamp="1598431828897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598431828897" />
+    <state width="1478" height="249" key="GridCell.Tab.1.center" timestamp="1598431828897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598431828897" />
+    <state width="1478" height="249" key="GridCell.Tab.1.left" timestamp="1598431828897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598431828897" />
+    <state width="1478" height="249" key="GridCell.Tab.1.right" timestamp="1598431828897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="249" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598431828897" />
+    <state x="306" y="71" key="SettingsEditor" timestamp="1598434481306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="306" y="71" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598434481306" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1598491291325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598491291325" />
+    <state x="356" y="128" key="new project wizard" timestamp="1598491364024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="128" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598491364024" />
+    <state x="390" y="202" key="run.anything.popup" timestamp="1598423295257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="390" y="202" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1598423295257" />
+  </component>
+</project>
